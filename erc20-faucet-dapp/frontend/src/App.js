@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 import { ethers } from 'ethers';
 import faucetABI from './faucetABI.json';
 
-const contractAddress = "PASTE_YOUR_CONTRACT_ADDRESS_HERE";
+const contractAddress = "";
 
 function App() {
   const [account, setAccount] = useState('');
