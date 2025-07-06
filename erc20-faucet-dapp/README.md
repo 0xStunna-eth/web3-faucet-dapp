@@ -1,13 +1,13 @@
 
 # 🧴 ERC-20 Token Faucet dApp
 
-This dApp lets users claim free testnet ERC-20 tokens once every 24 hours. Built with Solidity, Hardhat, and React.
+This dApp let the user claim free testnet ERC-20 tokens every 24 hours. Built with **Solidity**, **Hardhat**, and **React**.
 
 ## Features
 
 - ERC-20 token smart contract (FaucetToken)
-- Faucet functionality (rate-limited claims)
-- React frontend to claim tokens & check balance
+- Faucet functionality (rate-limited claiming)
+- React frontend to claim tokens & check your balance
 
 ## Setup
 
@@ -43,7 +43,3 @@ cd frontend
 npm install
 npm start
 ```
-
-## License
-
-MIT — 0xStunna-eth
